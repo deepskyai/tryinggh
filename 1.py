@@ -1,6 +1,8 @@
 from random import randint
 import sys
 
+# This version has a bunch of comments from when I tried to figure out git
+
 a = int(sys.argv[1])
 b = int(sys.argv[2])
 
