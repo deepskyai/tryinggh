@@ -3,6 +3,8 @@ import sys
 
 # This version has a bunch of comments from when I tried to figure out git
 # Then I added THIS COOL COMMENT yeah
+# Now this file is testing a new feature
+# I call it multiple hashes ####### yeah #####
 
 a = int(sys.argv[1])
 b = int(sys.argv[2])
